@@ -28,7 +28,15 @@
     padding: 0px;
 }
 
-
+#topo > a > img{
+    
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 50px;
+    right: 30px;
+    z-index: 1;
+}
 
 
 /*configurações do corpo*/
